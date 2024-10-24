@@ -1,4 +1,4 @@
-# Sustainable Wildlife Tourism Funding Platform
+# Green Tourism Funding Platform
 
 ## Overview
 The Sustainable Wildlife Tourism Funding Platform is a decentralized platform that connects wildlife tourism businesses with community-driven financial support to promote sustainability and wildlife conservation. Eco-lodges, safari operators, wildlife sanctuaries, and similar businesses can seek funding for projects such as building eco-friendly infrastructure, supporting wildlife sanctuaries, or improving conservation efforts. The platform leverages Potlock’s public goods funding mechanism to ensure transparency and community participation in supporting sustainable operations.
